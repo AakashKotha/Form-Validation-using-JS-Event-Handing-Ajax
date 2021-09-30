@@ -1,0 +1,3 @@
+Have you always wanted to learn computer programming but are afraid it'll be too difficult for you? Or perhaps you know other programming languages but are interested in learning the Python language fast?
+
+This book is for you. You no longer have to waste your time and money learning Python from lengthy books, expensive online courses or complicated Python tutorials.
